@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- Item Images -->
+    <dimen name="height_width_Image">85dp</dimen>
+</resources>

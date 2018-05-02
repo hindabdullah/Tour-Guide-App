@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">The Guide Saudi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_Hotel">Hotel</string>
+    <string name="fragment_Beach">Beach</string>
+    <string name="fragment_Restaurants">Restaurants</string>
+    <string name="fragment_Place">Place</string>
+    <string name="hotel_name1">Narcissus Hotel</string>
+    <string name="hotel_name2">Rose Wood Hotel</string>
+    <string name="hotel_name3">Holiday inn Hotel</string>
+    <string name="hotel_name4">Ritz Carlton Hotel</string>
+    <string name="hotel_name5">Abha Hotel</string>
+    <string name="city1">Riyadh City</string>
+    <string name="city2">Jeddah City</string>
+    <string name="city3">khobar City</string>
+    <string name="city4">Riyadh City</string>
+    <string name="city5">Abha City</string>
+    <string name="city6">Dammam City</string>
+    <string name="hotel_Number1">011 2607111</string>
+    <string name="hotel_Number2">012 2253242</string>
+    <string name="hotel_Number3">013 2532467</string>
+    <string name="hotel_Number4">011 2283229</string>
+    <string name="hotel_Number5">017 2298765</string>
+    <string name="Restaurants_name1">The Globe</string>
+    <string name="Restaurants_name2">Lusin</string>
+    <string name="Restaurants_name3">Aromi</string>
+    <string name="Restaurants_name4">Oceana</string>
+    <string name="Restaurants_name5">Naranj</string>
+    <string name="Restaurants_Number1">011 260777111</string>
+    <string name="Restaurants_Number2">012 225773242</string>
+    <string name="Restaurants_Number3">013 244488867</string>
+    <string name="Restaurants_Number4">011 227783229</string>
+    <string name="Restaurants_Number5">017 227798765</string>
+    <string name="Beach_Name1">Half Moon Beach</string>
+    <string name="Beach_Name2">Silver Sanda Beach</string>
+    <string name="Beach_Name3">Al-Fanateer Beach</string>
+    <string name="Beach_Name4">Uquir Beach</string>
+    <string name="Beach_Name5">AL-Remal Beach</string>
+    <string name="Place_Name1">Madain Saleh</string>
+    <string name="Place_Name2">Farsan Island</string>
+    <string name="Place_Name">Al-sawda</string>
+    <string name="Place1_desc">Also called "Al-Hijr" or "Hegra", is an archaeological site located in the Sector of Al-`Ula within Al Madinah Region,
+        the Hejaz,Saudi Arabia.A majority of the remains date from the Nabatean kingdom (1st century AD).</string>
+    <string name="Place2_desc"> is the largest island of the Farasan Islands, in the Red Sea.
+        It is located some 50 km offshore from Jizan, the far southwestern part of Saudi Arabia.</string>
+    <string name="Place3_desc"> the Asir Region is situated on a high plateau that receives more rainfall than the rest
+        of the country and contains the countrys highest peaks, which rise to almost 3,000 metres (9,800 ft) at Jabal Sawda near Abha</string>
+</resources>
+
